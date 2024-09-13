@@ -52,7 +52,7 @@ Visit [here](https://winter-baron-87e.notion.site/Approach-and-Libraries-47a33b6
 
 ### API Endpoints
 
-- **POST /task**: Submits a task for processing.
+- **POST api/v1/task**: Submits a task for processing.
 
 **Request Body**:
 ```json
