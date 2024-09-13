@@ -22,7 +22,7 @@ The **Advance Rate Limiter** is a Node.js API cluster designed to handle tasks w
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/advance-rate-limiter.git
+    git clone https://github.com/Shub95-arch/Advance-Rate-Limiter-Redis.git
     cd advance-rate-limiter
     ```
 
