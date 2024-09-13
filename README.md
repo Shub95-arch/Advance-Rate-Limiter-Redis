@@ -42,6 +42,14 @@ The **Advance Rate Limiter** is a Node.js API cluster designed to handle tasks w
     pm2 start app.js -i 2 --name "api-cluster"
     ```
 
+## Documentation
+
+Visit [here](https://documenter.getpostman.com/view/36359605/2sAXqnf5Di).
+
+## Algorithm & Approach
+
+Visit [here](https://winter-baron-87e.notion.site/Approach-and-Libraries-47a33b6e27e848cd902ff1b27e44f405).
+
 ### API Endpoints
 
 - **POST /task**: Submits a task for processing.
